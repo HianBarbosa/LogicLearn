@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogicLearn</string>
+    <string name="registro">Registrar</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="confirmarSenha">Insira novamente sua senha</string>
+    <string name="possuiConta">Já possui uma conta?</string>
+</resources>

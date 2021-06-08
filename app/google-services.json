@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43521134753",
+    "project_id": "logiclearn-a8a6c",
+    "storage_bucket": "logiclearn-a8a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43521134753:android:c47908c8c8dde9f94360e0",
+        "android_client_info": {
+          "package_name": "com.example.logiclearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43521134753-u8eegubdnh228mcrf12l195oapes5i51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logiclearn",
+            "certificate_hash": "1793c1910dab58b2fe86075c5b6960b1f6d5a065"
+          }
+        },
+        {
+          "client_id": "43521134753-ekqivfkv1ernqa39foc97rte0j1h4qek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOWpj2lBVkNtzvJKwPNjnYhJr4UtZyp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43521134753-ekqivfkv1ernqa39foc97rte0j1h4qek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
